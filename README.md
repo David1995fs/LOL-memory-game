@@ -1,3 +1,5 @@
 # LOL-memory-game
 Jogo da memoria - League of legends 
-desafio de projeto da ##DIO
+desafio de projeto da DIO
+
+
